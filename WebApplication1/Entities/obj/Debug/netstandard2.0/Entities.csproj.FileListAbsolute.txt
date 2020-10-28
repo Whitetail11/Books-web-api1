@@ -1,0 +1,9 @@
+D:\github\Books-web-api\WebApplication1\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\github\Books-web-api\WebApplication1\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\github\Books-web-api\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\github\Books-web-api\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\github\Books-web-api\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\github\Books-web-api\WebApplication1\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\github\Books-web-api\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\github\Books-web-api\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\github\Books-web-api\WebApplication1\Entities\obj\Debug\netstandard2.0\Entities.pdb
